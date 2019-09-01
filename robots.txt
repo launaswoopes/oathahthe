@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimiwomae.bigmoutain.cn/sitemap.xml
